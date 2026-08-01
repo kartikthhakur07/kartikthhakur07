@@ -180,18 +180,6 @@ Dream: Build products that impact millions.
 
 I'm interested in collaborating on meaningful projects that solve real problems. Whether it's contributing to open source, building AI-powered products, or exploring new technologies—if you have an interesting idea or want to connect, I'd love to hear about it.
 
----
-
-<div align="center">
-
-## Connect
-
-<a href="https://linkedin.com/in/kartik-thakur-b2b826332">LinkedIn</a> •
-<a href="https://github.com/kartikthhakur07">GitHub</a> •
-<a href="https://instagram.com/__kartiik.07">Instagram</a> •
-<a href="mailto:your-email@gmail.com">Email</a>
-
-</div>
 
 ---
 
