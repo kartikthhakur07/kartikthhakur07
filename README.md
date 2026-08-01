@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7C3AED,50:3B82F6,100:06B6D4&text=Kartik%20Thakur&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<img src="ChatGPT Image Aug 1, 2026, 11_11_10 PM.png" width="100%" />
 
 </div>
 
