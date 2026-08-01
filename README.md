@@ -32,6 +32,8 @@ I'm **Kartik Thakur**, an undergraduate pursuing **Artificial Intelligence & Mac
 
 Currently exploring LLMs, system design, and cloud deployment while actively participating in hackathons and contributing to open source.
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 ```yaml
 Name     : Kartik Thakur
 Role     : Full Stack Developer & AI Engineer
@@ -54,7 +56,7 @@ Interests:
 
 Dream: Build products that impact millions.
 ```
-
+<br clear="both">
 ---
 
 ## Tech Stack
