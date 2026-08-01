@@ -39,7 +39,7 @@ Name     : Kartik Thakur
 Role     : Full Stack Developer & AI Engineer
 College  : JSS University, Noida
 Branch   : Artificial Intelligence & Machine Learning
-Location : India 🇮🇳
+Location : Delhi-NCR
 
 Currently Learning:
   - System Design
@@ -57,7 +57,6 @@ Interests:
 Dream: Build products that impact millions.
 ```
 <br clear="both">
----
 
 ## Tech Stack
 
