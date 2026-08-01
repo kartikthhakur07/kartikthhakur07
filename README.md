@@ -140,16 +140,6 @@ Dream: Build products that impact millions.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kartikthhakur07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikthhakur07&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="100%" src="https://streak-stats.demolab.com?user=kartikthhakur07&theme=transparent&hide_border=true"/>
 
 </div>
