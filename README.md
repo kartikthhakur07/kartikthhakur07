@@ -96,7 +96,8 @@ Dream: Build products that impact millions.
 ```
 
 **Core Belief:** I enjoy building products where thoughtful design meets practical engineering—code that's clean, scalable, and purposeful.
-
+---
+<img src="brain-heart-banner.png" width="100%" alt="Kartik Kumar brain and heart portfolio banner" />
 ---
 
 ## GitHub Statistics
