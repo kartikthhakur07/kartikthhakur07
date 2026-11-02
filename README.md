@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ChatGPT Image Aug 1, 2026, 11_11_10 PM.png" width="100%" />
+<img src="image.png" width="100%" alt="Kartik Kumar mountain portfolio banner" />
 
 </div>
 
@@ -9,11 +9,9 @@
 <a href="https://linkedin.com/in/kartik-thakur-b2b826332">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
 <a href="https://www.instagram.com/kartiik.o_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
