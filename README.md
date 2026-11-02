@@ -32,7 +32,7 @@ Currently exploring LLMs, system design, and cloud deployment while actively par
 
 ```yaml
 Name     : Kartik Thakur
-Role     : Full Stack Developer & AI Engineer
+Role     : UI/UX designer | Full Stack Developer | AI Engineer
 College  : JSS University, Noida
 Branch   : Artificial Intelligence & Machine Learning
 Location : Delhi-NCR
@@ -56,46 +56,15 @@ Dream: Build products that impact millions.
 
 ## Tech Stack
 
-###  Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts"/>
+<p >
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,html,css,tailwind,react,nextjs,vite,nodejs,express,firebase,mongodb,mysql,pytorch,vercel,netlify,figma,postman,linux"/>
 </p>
 
-###  Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite"/>
-</p>
-
-###  Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql"/>
-</p>
-
-###  AI & Machine Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
-
-<p align="center">
+<p >
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white"/>
 </p>
 
-###  Cloud & Deployment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vercel,netlify,github,firebase"/>
-</p>
-
-###  Tools & Utilities
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
-</p>
 
 ---
 
@@ -137,16 +106,6 @@ Dream: Build products that impact millions.
 <div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com?user=kartikthhakur07&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartikthhakur07&theme=github-light&hide_border=true&bg_color=ffffff"/>
 
 </div>
 
