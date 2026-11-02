@@ -22,14 +22,14 @@
 
 ## About
 
-I'm **Kartik Thakur**, an undergraduate pursuing **Artificial Intelligence & Machine Learning** at **JSS University, Noida**. I build intelligent, scalable applications by combining AI/ML, modern backend systems, and clean frontend architecture.
+I'm **Kartik Kumar**, an undergraduate pursuing **Artificial Intelligence & Machine Learning** at **JSS University, Noida**. I build intelligent, scalable applications by combining AI/ML, modern backend systems, and clean frontend architecture.
 
 Currently exploring LLMs, system design, and cloud deployment while actively participating in hackathons and contributing to open source.
 
 <img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```yaml
-Name     : Kartik Thakur
+Name     : Kartik Kumar
 Role     : UI/UX designer | Full Stack Developer | AI Engineer
 College  : JSS University, Noida
 Branch   : Artificial Intelligence & Machine Learning
